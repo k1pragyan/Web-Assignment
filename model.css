@@ -1,0 +1,11 @@
+.report{
+	font-size: 20px;
+	text-align: justify;
+	padding: 200px;
+	margin: 10px;
+}
+.report img{
+	height: 420px;
+	width: 520px;
+margin-left: 200px;
+}
